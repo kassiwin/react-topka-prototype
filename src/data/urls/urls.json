@@ -1,0 +1,22 @@
+{
+  "urls": {
+    "auth": {
+      "signin": "/auth/signin",
+      "signup": "/auth/signup",
+      "logout": "/auth/logout"
+    },
+    "home": {
+      "base": "/"
+    },
+    "profiles": {
+      "base": "/profiles"
+    },
+    "order_history": {
+      "base": "/order-history"
+    },
+    "checkout": {
+      "base": "/checkout",
+      "done": "/checkout/:order_id"
+    }
+  }
+}
