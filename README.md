@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Kassiwin/react-topka-prototype)
+
 # Getting Started with Quick start React Topka App
 This is intended for Epitech Student, so they can quickly set the project and follow along the workshop.
 
